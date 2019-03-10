@@ -1,0 +1,8 @@
+C:\Users\Виталий\source\repos\Statistic\Dispercy analysis\bin\Debug\Dispercy analysis.exe.config
+C:\Users\Виталий\source\repos\Statistic\Dispercy analysis\bin\Debug\Dispercy analysis.exe
+C:\Users\Виталий\source\repos\Statistic\Dispercy analysis\bin\Debug\Dispercy analysis.pdb
+C:\Users\Виталий\source\repos\Statistic\Dispercy analysis\obj\Debug\Dispercy analysis.csprojResolveAssemblyReference.cache
+C:\Users\Виталий\source\repos\Statistic\Dispercy analysis\obj\Debug\Dispercy analysis.csproj.CoreCompileInputs.cache
+C:\Users\Виталий\source\repos\Statistic\Dispercy analysis\obj\Debug\Dispercy analysis.exe
+C:\Users\Виталий\source\repos\Statistic\Dispercy analysis\obj\Debug\Dispercy analysis.pdb
+C:\Users\Виталий\source\repos\Statistic\Dispercy analysis\obj\Debug\Dispercy analysis.csproj.ResolveComReference.cache
